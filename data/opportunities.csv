@@ -1,0 +1,801 @@
+opp_id,rep_name,stage,amount,created_date,close_date,industry,lead_source
+OPP-0001,Jake Morris,Negotiation,53300,2025-07-12,,Tech,Inbound
+OPP-0002,Sofia Reyes,Closed Lost,196100,2025-04-04,2025-04-12,Finance,Outbound
+OPP-0003,Tom Becker,Closed Lost,88400,2024-12-10,2025-03-07,Healthcare,Inbound
+OPP-0004,Sofia Reyes,Closed Lost,169800,2025-01-22,2025-04-28,Retail,Referral
+OPP-0005,Sofia Reyes,Closed Lost,89300,2024-03-22,2024-04-01,Tech,Referral
+OPP-0006,Dan Kowalski,Closed Lost,40100,2024-09-30,2024-10-25,Retail,Outbound
+OPP-0007,Jake Morris,Qualification,148300,2025-01-23,,Tech,Outbound
+OPP-0008,Jake Morris,Prospecting,101400,2025-08-03,,Healthcare,Inbound
+OPP-0009,Priya Nair,Closed Lost,198700,2024-09-28,2024-12-01,Healthcare,Outbound
+OPP-0010,Priya Nair,Closed Won,77000,2024-05-21,2024-11-06,Manufacturing,Outbound
+OPP-0011,Marcus Webb,Closed Lost,120400,2025-04-24,2025-05-19,Finance,Referral
+OPP-0012,Jake Morris,Closed Lost,196300,2024-12-14,2025-03-08,Manufacturing,Inbound
+OPP-0013,Aisha Khan,Closed Lost,48900,2025-06-03,2025-06-14,Healthcare,Referral
+OPP-0014,Priya Nair,Prospecting,98700,2024-04-24,,Manufacturing,Inbound
+OPP-0015,Aisha Khan,Prospecting,108700,2025-06-29,,Healthcare,Referral
+OPP-0016,Marcus Webb,Closed Lost,139100,2025-07-06,2025-08-06,Finance,Outbound
+OPP-0017,Marcus Webb,Negotiation,104400,2025-06-13,,Manufacturing,Outbound
+OPP-0018,Marcus Webb,Closed Lost,136800,2024-02-02,2024-02-12,Tech,Inbound
+OPP-0019,Sofia Reyes,Proposal,122700,2025-08-07,,Healthcare,Inbound
+OPP-0020,Marcus Webb,Closed Lost,98500,2024-02-25,2024-03-26,Healthcare,Inbound
+OPP-0021,Elena Torres,Closed Won,41300,2025-07-03,2025-10-04,Retail,Referral
+OPP-0022,Dan Kowalski,Closed Lost,90900,2024-08-06,2024-08-14,Finance,Partner
+OPP-0023,Marcus Webb,Negotiation,63700,2025-07-23,,Healthcare,Inbound
+OPP-0024,Sofia Reyes,Prospecting,26400,2025-05-29,,Retail,Outbound
+OPP-0025,Sofia Reyes,Closed Lost,30800,2025-08-06,2025-09-01,Healthcare,Inbound
+OPP-0026,Dan Kowalski,Proposal,228700,2024-11-17,,Finance,Outbound
+OPP-0027,Priya Nair,Prospecting,32600,2025-07-30,,Retail,Outbound
+OPP-0028,Elena Torres,Closed Lost,190900,2024-06-10,2024-11-05,Tech,Inbound
+OPP-0029,Elena Torres,Closed Won,60900,2024-10-05,2025-02-02,Tech,Referral
+OPP-0030,Sofia Reyes,Closed Lost,73300,2024-09-25,2024-11-08,Manufacturing,Inbound
+OPP-0031,Elena Torres,Closed Lost,119700,2025-03-16,2025-05-06,Finance,Partner
+OPP-0032,Aisha Khan,Prospecting,197800,2024-06-07,,Tech,Inbound
+OPP-0033,Marcus Webb,Proposal,39300,2024-07-02,,Retail,Inbound
+OPP-0034,Tom Becker,Closed Lost,25700,2024-04-20,2024-06-18,Retail,Partner
+OPP-0035,Tom Becker,Prospecting,147800,2024-01-25,,Healthcare,Outbound
+OPP-0036,Dan Kowalski,Qualification,166100,2025-06-05,,Tech,Inbound
+OPP-0037,Sofia Reyes,Closed Lost,195100,2024-04-21,2024-08-07,Tech,Partner
+OPP-0038,Sofia Reyes,Qualification,119100,2025-03-22,,Healthcare,Outbound
+OPP-0039,Sofia Reyes,Closed Lost,73800,2024-03-12,2024-03-29,Retail,Referral
+OPP-0040,Sofia Reyes,Qualification,224500,2025-02-22,,Tech,Outbound
+OPP-0041,Sofia Reyes,Closed Lost,103600,2024-06-27,2024-08-11,Finance,Inbound
+OPP-0042,Priya Nair,Closed Lost,67800,2025-03-28,2025-05-29,Retail,Inbound
+OPP-0043,Jake Morris,Closed Lost,166000,2024-08-28,2024-09-12,Finance,Inbound
+OPP-0044,Tom Becker,Qualification,175600,2025-08-12,,Tech,Inbound
+OPP-0045,Dan Kowalski,Closed Lost,189400,2025-03-11,2025-05-12,Finance,Inbound
+OPP-0046,Dan Kowalski,Closed Lost,60700,2025-04-20,2025-05-13,Manufacturing,Outbound
+OPP-0047,Sofia Reyes,Closed Lost,115900,2025-05-31,2025-07-23,Manufacturing,Partner
+OPP-0048,Aisha Khan,Prospecting,85900,2024-10-10,,Healthcare,Referral
+OPP-0049,Sofia Reyes,Qualification,76000,2024-10-05,,Tech,Outbound
+OPP-0050,Elena Torres,Closed Won,78200,2025-02-28,2025-07-21,Healthcare,Inbound
+OPP-0051,Dan Kowalski,Proposal,95000,2024-12-26,,Manufacturing,Referral
+OPP-0052,Tom Becker,Proposal,59300,2025-05-12,,Retail,Outbound
+OPP-0053,Dan Kowalski,Prospecting,51400,2024-01-28,,Healthcare,Inbound
+OPP-0054,Sofia Reyes,Closed Won,79300,2024-07-05,2024-11-21,Tech,Outbound
+OPP-0055,Priya Nair,Closed Lost,179200,2025-07-06,2025-08-16,Healthcare,Partner
+OPP-0056,Jake Morris,Closed Lost,110300,2024-04-27,2024-07-29,Finance,Referral
+OPP-0057,Marcus Webb,Closed Lost,35200,2025-01-19,2025-02-13,Retail,Outbound
+OPP-0058,Sofia Reyes,Closed Lost,149200,2025-09-06,2025-10-04,Tech,Referral
+OPP-0059,Priya Nair,Prospecting,110800,2025-03-06,,Healthcare,Outbound
+OPP-0060,Elena Torres,Closed Lost,357000,2025-03-21,2025-07-22,Finance,Partner
+OPP-0061,Dan Kowalski,Closed Lost,125100,2024-03-29,2024-07-02,Finance,Referral
+OPP-0062,Priya Nair,Qualification,108400,2024-09-21,,Healthcare,Outbound
+OPP-0063,Jake Morris,Closed Lost,167300,2024-09-03,2024-10-02,Tech,Inbound
+OPP-0064,Jake Morris,Closed Lost,91900,2024-09-06,2024-10-30,Tech,Outbound
+OPP-0065,Sofia Reyes,Closed Won,90300,2025-04-09,2025-07-26,Manufacturing,Outbound
+OPP-0066,Jake Morris,Qualification,60300,2024-10-10,,Finance,Partner
+OPP-0067,Sofia Reyes,Closed Lost,88400,2024-07-02,2024-08-03,Tech,Inbound
+OPP-0068,Priya Nair,Negotiation,178600,2025-05-17,,Finance,Partner
+OPP-0069,Marcus Webb,Closed Lost,77200,2025-02-14,2025-04-17,Manufacturing,Inbound
+OPP-0070,Marcus Webb,Closed Lost,184800,2024-08-19,2024-09-09,Healthcare,Outbound
+OPP-0071,Dan Kowalski,Prospecting,108000,2024-04-11,,Manufacturing,Outbound
+OPP-0072,Marcus Webb,Closed Lost,108900,2024-03-17,2024-07-01,Finance,Inbound
+OPP-0073,Priya Nair,Prospecting,199900,2024-08-27,,Finance,Inbound
+OPP-0074,Tom Becker,Closed Lost,268500,2025-07-11,2025-09-19,Finance,Outbound
+OPP-0075,Elena Torres,Closed Won,171800,2024-10-22,2025-03-08,Healthcare,Inbound
+OPP-0076,Sofia Reyes,Closed Lost,64200,2024-11-26,2024-12-03,Tech,Outbound
+OPP-0077,Elena Torres,Closed Won,195200,2024-10-02,2025-03-14,Retail,Partner
+OPP-0078,Aisha Khan,Closed Lost,184100,2024-04-03,2024-04-25,Finance,Inbound
+OPP-0079,Priya Nair,Closed Lost,39100,2024-10-22,2024-11-08,Retail,Outbound
+OPP-0080,Tom Becker,Prospecting,89000,2025-02-17,,Healthcare,Outbound
+OPP-0081,Tom Becker,Qualification,82400,2025-06-14,,Manufacturing,Inbound
+OPP-0082,Jake Morris,Closed Lost,202900,2025-03-24,2025-04-18,Tech,Referral
+OPP-0083,Elena Torres,Negotiation,118100,2025-07-18,,Finance,Partner
+OPP-0084,Dan Kowalski,Closed Lost,59700,2025-06-05,2025-06-24,Retail,Inbound
+OPP-0085,Tom Becker,Qualification,128000,2025-09-05,,Tech,Partner
+OPP-0086,Tom Becker,Proposal,22100,2025-06-03,,Retail,Inbound
+OPP-0087,Tom Becker,Closed Lost,249700,2025-05-10,2025-06-06,Finance,Outbound
+OPP-0088,Tom Becker,Qualification,61300,2025-02-24,,Manufacturing,Outbound
+OPP-0089,Jake Morris,Closed Lost,222600,2024-06-04,2024-09-07,Healthcare,Referral
+OPP-0090,Tom Becker,Closed Lost,114100,2024-05-27,2024-06-30,Healthcare,Partner
+OPP-0091,Elena Torres,Closed Lost,140500,2024-03-23,2024-06-27,Tech,Referral
+OPP-0092,Aisha Khan,Qualification,83300,2024-03-11,,Manufacturing,Outbound
+OPP-0093,Priya Nair,Closed Lost,142900,2024-06-19,2024-06-27,Tech,Inbound
+OPP-0094,Elena Torres,Negotiation,107200,2025-06-27,,Tech,Referral
+OPP-0095,Tom Becker,Prospecting,115300,2024-09-18,,Tech,Outbound
+OPP-0096,Aisha Khan,Prospecting,124800,2024-12-19,,Tech,Outbound
+OPP-0097,Priya Nair,Closed Lost,143000,2025-01-28,2025-02-08,Finance,Partner
+OPP-0098,Marcus Webb,Closed Lost,100400,2024-02-20,2024-03-14,Finance,Outbound
+OPP-0099,Tom Becker,Closed Lost,21000,2024-08-12,2024-09-03,Retail,Partner
+OPP-0100,Priya Nair,Closed Lost,70500,2024-04-09,2024-05-05,Retail,Referral
+OPP-0101,Elena Torres,Closed Won,106400,2024-10-29,2025-03-20,Tech,Referral
+OPP-0102,Sofia Reyes,Closed Lost,20600,2025-05-08,2025-05-22,Retail,Partner
+OPP-0103,Jake Morris,Closed Lost,73100,2024-01-15,2024-03-30,Tech,Outbound
+OPP-0104,Sofia Reyes,Closed Lost,57300,2024-01-26,2024-03-08,Manufacturing,Referral
+OPP-0105,Aisha Khan,Proposal,92700,2024-05-23,,Tech,Inbound
+OPP-0106,Elena Torres,Negotiation,130800,2025-07-07,,Finance,Inbound
+OPP-0107,Tom Becker,Closed Lost,49100,2024-08-10,2024-08-23,Manufacturing,Outbound
+OPP-0108,Tom Becker,Proposal,706200,2025-01-02,,Finance,Inbound
+OPP-0109,Aisha Khan,Proposal,64800,2024-01-22,,Tech,Referral
+OPP-0110,Tom Becker,Proposal,66400,2024-08-26,,Retail,Inbound
+OPP-0111,Elena Torres,Closed Won,82000,2024-06-27,2024-10-27,Tech,Partner
+OPP-0112,Sofia Reyes,Closed Lost,73000,2024-04-26,2024-05-18,Tech,Inbound
+OPP-0113,Dan Kowalski,Closed Lost,143000,2024-02-14,2024-03-15,Finance,Outbound
+OPP-0114,Sofia Reyes,Proposal,44300,2025-02-15,,Manufacturing,Outbound
+OPP-0115,Dan Kowalski,Proposal,80600,2025-08-22,,Healthcare,Partner
+OPP-0116,Sofia Reyes,Prospecting,327300,2025-07-18,,Finance,Outbound
+OPP-0117,Marcus Webb,Closed Lost,95600,2025-03-01,2025-03-18,Tech,Outbound
+OPP-0118,Dan Kowalski,Qualification,292900,2025-07-23,,Healthcare,Outbound
+OPP-0119,Sofia Reyes,Prospecting,54200,2024-02-22,,Healthcare,Outbound
+OPP-0120,Sofia Reyes,Prospecting,78600,2024-08-17,,Finance,Outbound
+OPP-0121,Priya Nair,Prospecting,96200,2025-03-15,,Tech,Outbound
+OPP-0122,Aisha Khan,Proposal,168000,2024-09-30,,Finance,Referral
+OPP-0123,Aisha Khan,Qualification,53700,2024-03-12,,Tech,Outbound
+OPP-0124,Elena Torres,Closed Lost,109200,2025-01-13,2025-03-09,Tech,Referral
+OPP-0125,Aisha Khan,Closed Lost,55600,2025-09-13,2025-09-27,Retail,Inbound
+OPP-0126,Marcus Webb,Closed Lost,43200,2025-08-30,2025-09-23,Healthcare,Outbound
+OPP-0127,Marcus Webb,Closed Lost,287900,2024-10-23,2025-01-07,Tech,Partner
+OPP-0128,Marcus Webb,Closed Lost,137600,2024-12-28,2025-01-25,Tech,Outbound
+OPP-0129,Dan Kowalski,Closed Lost,93200,2025-02-18,2025-03-10,Tech,Outbound
+OPP-0130,Priya Nair,Qualification,77000,2025-01-05,,Manufacturing,Outbound
+OPP-0131,Marcus Webb,Closed Lost,133500,2024-12-13,2025-01-12,Finance,Outbound
+OPP-0132,Sofia Reyes,Closed Won,178100,2024-05-31,2024-12-07,Healthcare,Inbound
+OPP-0133,Elena Torres,Closed Lost,140700,2025-08-16,2025-10-01,Finance,Partner
+OPP-0134,Tom Becker,Prospecting,66000,2024-11-06,,Tech,Outbound
+OPP-0135,Sofia Reyes,Prospecting,116400,2025-01-12,,Tech,Outbound
+OPP-0136,Elena Torres,Closed Lost,71800,2025-04-18,2025-05-13,Retail,Partner
+OPP-0137,Dan Kowalski,Closed Lost,115300,2024-06-03,2024-06-25,Finance,Referral
+OPP-0138,Elena Torres,Closed Lost,153600,2024-06-25,2024-09-01,Healthcare,Partner
+OPP-0139,Priya Nair,Closed Lost,212800,2024-02-23,2024-03-24,Healthcare,Partner
+OPP-0140,Priya Nair,Prospecting,133400,2025-09-09,,Finance,Outbound
+OPP-0141,Priya Nair,Closed Lost,154400,2025-09-01,2025-09-11,Tech,Outbound
+OPP-0142,Priya Nair,Closed Lost,124900,2025-06-23,2025-08-20,Retail,Outbound
+OPP-0143,Priya Nair,Proposal,118400,2024-05-20,,Tech,Outbound
+OPP-0144,Sofia Reyes,Closed Lost,63700,2024-05-14,2024-05-25,Retail,Outbound
+OPP-0145,Marcus Webb,Closed Lost,79900,2025-03-24,2025-06-30,Retail,Referral
+OPP-0146,Sofia Reyes,Closed Lost,45800,2025-04-25,2025-05-07,Retail,Referral
+OPP-0147,Priya Nair,Closed Won,81600,2025-01-26,2025-07-12,Manufacturing,Partner
+OPP-0148,Marcus Webb,Closed Won,286900,2024-04-15,2024-08-23,Finance,Inbound
+OPP-0149,Priya Nair,Closed Lost,48700,2024-08-15,2024-09-07,Tech,Partner
+OPP-0150,Dan Kowalski,Qualification,100000,2024-08-17,,Healthcare,Outbound
+OPP-0151,Tom Becker,Prospecting,40500,2025-04-28,,Retail,Outbound
+OPP-0152,Marcus Webb,Closed Lost,35100,2025-07-15,2025-08-07,Healthcare,Referral
+OPP-0153,Sofia Reyes,Closed Lost,102100,2025-03-05,2025-04-01,Tech,Inbound
+OPP-0154,Dan Kowalski,Closed Lost,91700,2025-06-11,2025-07-23,Manufacturing,Inbound
+OPP-0155,Dan Kowalski,Proposal,99000,2024-03-28,,Tech,Outbound
+OPP-0156,Sofia Reyes,Closed Lost,61900,2025-01-17,2025-04-11,Healthcare,Referral
+OPP-0157,Marcus Webb,Proposal,155600,2024-05-16,,Tech,Outbound
+OPP-0158,Marcus Webb,Closed Won,165700,2024-05-18,2024-09-01,Healthcare,Referral
+OPP-0159,Tom Becker,Closed Lost,86200,2025-07-10,2025-09-27,Healthcare,Partner
+OPP-0160,Priya Nair,Closed Lost,73300,2025-01-11,2025-04-29,Manufacturing,Referral
+OPP-0161,Aisha Khan,Prospecting,217400,2024-03-25,,Healthcare,Outbound
+OPP-0162,Elena Torres,Closed Won,63200,2024-03-22,2024-07-09,Retail,Outbound
+OPP-0163,Jake Morris,Qualification,186600,2025-03-21,,Tech,Outbound
+OPP-0164,Aisha Khan,Prospecting,88200,2024-06-12,,Finance,Inbound
+OPP-0165,Marcus Webb,Prospecting,84200,2025-01-27,,Retail,Outbound
+OPP-0166,Elena Torres,Closed Won,92000,2024-03-19,2024-07-21,Healthcare,Inbound
+OPP-0167,Aisha Khan,Closed Lost,140600,2024-04-30,2024-07-23,Tech,Inbound
+OPP-0168,Jake Morris,Closed Lost,49700,2024-03-30,2024-04-15,Tech,Partner
+OPP-0169,Jake Morris,Closed Lost,119000,2024-06-10,2024-07-16,Finance,Referral
+OPP-0170,Tom Becker,Closed Lost,91800,2025-05-20,2025-07-06,Tech,Outbound
+OPP-0171,Dan Kowalski,Closed Lost,90900,2025-05-05,2025-06-02,Tech,Partner
+OPP-0172,Marcus Webb,Closed Lost,113600,2024-05-11,2024-06-05,Tech,Outbound
+OPP-0173,Jake Morris,Prospecting,47500,2024-02-26,,Manufacturing,Inbound
+OPP-0174,Sofia Reyes,Prospecting,185100,2025-06-15,,Tech,Outbound
+OPP-0175,Tom Becker,Closed Lost,156900,2024-11-06,2024-11-16,Finance,Inbound
+OPP-0176,Sofia Reyes,Qualification,38900,2025-09-11,,Manufacturing,Inbound
+OPP-0177,Elena Torres,Negotiation,95300,2025-08-08,,Tech,Partner
+OPP-0178,Jake Morris,Closed Lost,178900,2025-04-09,2025-07-31,Tech,Outbound
+OPP-0179,Dan Kowalski,Prospecting,180800,2024-12-19,,Tech,Outbound
+OPP-0180,Marcus Webb,Closed Lost,115500,2024-09-30,2025-02-27,Finance,Outbound
+OPP-0181,Dan Kowalski,Closed Won,104900,2024-06-12,2024-09-17,Manufacturing,Partner
+OPP-0182,Elena Torres,Proposal,68000,2024-02-19,,Healthcare,Outbound
+OPP-0183,Jake Morris,Prospecting,240200,2024-09-27,,Finance,Outbound
+OPP-0184,Tom Becker,Closed Lost,117700,2025-07-20,2025-09-12,Healthcare,Outbound
+OPP-0185,Tom Becker,Qualification,99600,2024-04-09,,Manufacturing,Inbound
+OPP-0186,Priya Nair,Closed Lost,37400,2025-05-27,2025-08-28,Retail,Partner
+OPP-0187,Sofia Reyes,Closed Lost,67500,2024-11-02,2025-02-12,Manufacturing,Inbound
+OPP-0188,Jake Morris,Closed Lost,43900,2025-03-02,2025-03-25,Retail,Inbound
+OPP-0189,Sofia Reyes,Closed Lost,145300,2025-01-24,2025-02-21,Finance,Inbound
+OPP-0190,Sofia Reyes,Closed Lost,111000,2025-02-26,2025-06-12,Tech,Referral
+OPP-0191,Tom Becker,Prospecting,84400,2024-11-28,,Tech,Referral
+OPP-0192,Dan Kowalski,Qualification,79500,2025-07-13,,Manufacturing,Outbound
+OPP-0193,Jake Morris,Proposal,166600,2024-09-09,,Finance,Outbound
+OPP-0194,Aisha Khan,Qualification,199900,2025-05-06,,Finance,Referral
+OPP-0195,Tom Becker,Prospecting,149500,2025-02-08,,Tech,Inbound
+OPP-0196,Aisha Khan,Prospecting,67600,2024-12-20,,Tech,Referral
+OPP-0197,Jake Morris,Proposal,169800,2025-07-29,,Tech,Referral
+OPP-0198,Marcus Webb,Closed Lost,167800,2025-02-27,2025-05-03,Finance,Outbound
+OPP-0199,Elena Torres,Proposal,28100,2025-05-02,,Manufacturing,Outbound
+OPP-0200,Priya Nair,Closed Lost,40400,2025-07-01,2025-07-09,Manufacturing,Outbound
+OPP-0201,Aisha Khan,Qualification,160600,2025-05-22,,Manufacturing,Inbound
+OPP-0202,Tom Becker,Qualification,81100,2024-12-09,,Tech,Inbound
+OPP-0203,Sofia Reyes,Prospecting,141500,2024-07-16,,Manufacturing,Outbound
+OPP-0204,Priya Nair,Closed Lost,125500,2024-07-16,2024-09-05,Finance,Referral
+OPP-0205,Tom Becker,Closed Lost,140900,2024-05-23,2024-06-07,Tech,Outbound
+OPP-0206,Elena Torres,Proposal,84100,2025-08-19,,Healthcare,Outbound
+OPP-0207,Elena Torres,Proposal,95000,2024-11-14,,Healthcare,Inbound
+OPP-0208,Priya Nair,Qualification,82400,2025-09-12,,Manufacturing,Inbound
+OPP-0209,Tom Becker,Prospecting,112900,2025-09-02,,Retail,Referral
+OPP-0210,Elena Torres,Closed Lost,71000,2024-03-04,2024-03-27,Finance,Outbound
+OPP-0211,Marcus Webb,Closed Lost,195900,2024-07-29,2024-08-22,Tech,Outbound
+OPP-0212,Elena Torres,Closed Lost,55700,2025-04-12,2025-06-29,Retail,Outbound
+OPP-0213,Jake Morris,Closed Lost,94100,2024-02-16,2024-04-14,Retail,Outbound
+OPP-0214,Aisha Khan,Qualification,88500,2025-03-06,,Tech,Partner
+OPP-0215,Dan Kowalski,Qualification,153500,2024-12-22,,Healthcare,Partner
+OPP-0216,Dan Kowalski,Closed Lost,245400,2024-11-01,2024-12-28,Manufacturing,Inbound
+OPP-0217,Sofia Reyes,Closed Lost,101900,2024-04-25,2024-06-11,Tech,Referral
+OPP-0218,Marcus Webb,Closed Won,132200,2024-02-19,2024-06-03,Finance,Inbound
+OPP-0219,Marcus Webb,Negotiation,256200,2025-08-14,,Tech,Partner
+OPP-0220,Aisha Khan,Prospecting,74400,2025-08-28,,Healthcare,Outbound
+OPP-0221,Aisha Khan,Prospecting,97400,2025-01-25,,Healthcare,Outbound
+OPP-0222,Priya Nair,Proposal,81400,2025-04-29,,Tech,Outbound
+OPP-0223,Marcus Webb,Negotiation,106900,2025-06-26,,Tech,Outbound
+OPP-0224,Tom Becker,Closed Lost,43300,2025-09-11,2025-09-20,Retail,Inbound
+OPP-0225,Marcus Webb,Closed Won,65500,2024-12-06,2025-06-03,Retail,Referral
+OPP-0226,Elena Torres,Closed Won,66600,2024-07-28,2024-12-21,Healthcare,Partner
+OPP-0227,Sofia Reyes,Prospecting,122400,2024-04-10,,Tech,Outbound
+OPP-0228,Jake Morris,Closed Won,78800,2024-02-16,2024-07-29,Healthcare,Referral
+OPP-0229,Sofia Reyes,Closed Lost,97100,2024-09-08,2024-10-23,Tech,Outbound
+OPP-0230,Priya Nair,Closed Won,105400,2024-06-21,2024-10-17,Manufacturing,Referral
+OPP-0231,Aisha Khan,Qualification,260300,2025-02-26,,Finance,Outbound
+OPP-0232,Elena Torres,Closed Won,115700,2025-05-09,2025-08-15,Tech,Inbound
+OPP-0233,Sofia Reyes,Closed Won,170000,2024-07-02,2024-12-21,Manufacturing,Inbound
+OPP-0234,Priya Nair,Qualification,57500,2024-08-19,,Retail,Outbound
+OPP-0235,Elena Torres,Closed Won,81700,2025-01-21,2025-06-24,Finance,Partner
+OPP-0236,Tom Becker,Proposal,155000,2024-10-04,,Healthcare,Outbound
+OPP-0237,Aisha Khan,Prospecting,194500,2024-07-31,,Tech,Outbound
+OPP-0238,Tom Becker,Closed Lost,48100,2024-12-05,2025-01-01,Healthcare,Referral
+OPP-0239,Sofia Reyes,Closed Lost,88800,2024-12-14,2025-03-08,Tech,Partner
+OPP-0240,Elena Torres,Closed Lost,84000,2025-01-19,2025-03-13,Manufacturing,Inbound
+OPP-0241,Tom Becker,Prospecting,76500,2025-01-24,,Tech,Inbound
+OPP-0242,Jake Morris,Closed Won,87300,2024-10-03,2025-03-09,Healthcare,Referral
+OPP-0243,Dan Kowalski,Closed Lost,50300,2024-11-28,2024-12-05,Healthcare,Inbound
+OPP-0244,Priya Nair,Closed Won,79500,2024-05-22,2024-09-25,Tech,Outbound
+OPP-0245,Dan Kowalski,Closed Lost,93000,2025-05-22,2025-06-04,Tech,Outbound
+OPP-0246,Dan Kowalski,Closed Lost,72200,2025-01-24,2025-02-10,Tech,Inbound
+OPP-0247,Dan Kowalski,Qualification,80000,2024-11-03,,Retail,Outbound
+OPP-0248,Marcus Webb,Prospecting,141600,2025-05-17,,Manufacturing,Outbound
+OPP-0249,Tom Becker,Qualification,169900,2025-07-31,,Tech,Outbound
+OPP-0250,Marcus Webb,Closed Won,39600,2024-03-11,2024-08-15,Tech,Referral
+OPP-0251,Priya Nair,Prospecting,109100,2025-04-04,,Tech,Inbound
+OPP-0252,Dan Kowalski,Closed Lost,129200,2025-01-03,2025-01-28,Healthcare,Outbound
+OPP-0253,Sofia Reyes,Proposal,67200,2024-06-19,,Tech,Partner
+OPP-0254,Jake Morris,Proposal,112800,2024-01-11,,Retail,Outbound
+OPP-0255,Sofia Reyes,Proposal,100100,2025-08-25,,Tech,Referral
+OPP-0256,Dan Kowalski,Closed Lost,111600,2024-12-17,2025-04-02,Manufacturing,Inbound
+OPP-0257,Elena Torres,Closed Lost,96000,2024-06-17,2024-07-01,Healthcare,Referral
+OPP-0258,Sofia Reyes,Closed Lost,99000,2025-02-18,2025-03-02,Healthcare,Outbound
+OPP-0259,Jake Morris,Negotiation,133900,2025-08-29,,Tech,Outbound
+OPP-0260,Tom Becker,Proposal,170800,2024-11-29,,Tech,Inbound
+OPP-0261,Dan Kowalski,Closed Lost,95500,2024-04-26,2024-05-31,Healthcare,Partner
+OPP-0262,Tom Becker,Closed Won,132200,2024-05-17,2024-09-10,Tech,Referral
+OPP-0263,Sofia Reyes,Closed Lost,107500,2025-07-04,2025-08-01,Tech,Outbound
+OPP-0264,Aisha Khan,Closed Lost,98200,2025-04-06,2025-04-24,Tech,Inbound
+OPP-0265,Aisha Khan,Closed Lost,97800,2025-05-21,2025-06-12,Tech,Outbound
+OPP-0266,Dan Kowalski,Closed Lost,146200,2024-10-08,2025-01-29,Healthcare,Referral
+OPP-0267,Sofia Reyes,Closed Lost,67200,2024-02-12,2024-03-03,Tech,Inbound
+OPP-0268,Sofia Reyes,Closed Lost,334400,2024-10-31,2024-11-10,Tech,Partner
+OPP-0269,Dan Kowalski,Closed Lost,79300,2025-08-25,2025-09-23,Retail,Outbound
+OPP-0270,Sofia Reyes,Closed Lost,259600,2025-06-29,2025-08-18,Finance,Outbound
+OPP-0271,Aisha Khan,Qualification,307900,2024-04-07,,Finance,Inbound
+OPP-0272,Dan Kowalski,Closed Lost,179600,2024-05-15,2024-06-26,Tech,Inbound
+OPP-0273,Tom Becker,Closed Lost,119400,2025-02-28,2025-03-10,Healthcare,Outbound
+OPP-0274,Jake Morris,Closed Lost,122000,2025-01-12,2025-03-10,Tech,Partner
+OPP-0275,Jake Morris,Qualification,133500,2025-07-01,,Finance,Outbound
+OPP-0276,Tom Becker,Closed Lost,76100,2024-05-13,2024-06-04,Healthcare,Outbound
+OPP-0277,Tom Becker,Closed Lost,17700,2024-10-07,2024-12-19,Retail,Partner
+OPP-0278,Elena Torres,Closed Won,84700,2024-04-03,2024-08-01,Retail,Outbound
+OPP-0279,Sofia Reyes,Closed Lost,104600,2025-03-08,2025-03-31,Tech,Outbound
+OPP-0280,Elena Torres,Closed Lost,38400,2024-11-02,2024-12-01,Retail,Outbound
+OPP-0281,Jake Morris,Qualification,136000,2024-06-17,,Tech,Outbound
+OPP-0282,Jake Morris,Prospecting,307700,2024-03-29,,Healthcare,Inbound
+OPP-0283,Marcus Webb,Closed Won,49100,2024-05-23,2024-11-10,Retail,Inbound
+OPP-0284,Sofia Reyes,Closed Won,329300,2024-11-04,2025-05-27,Finance,Referral
+OPP-0285,Elena Torres,Closed Lost,84600,2025-05-26,2025-07-10,Manufacturing,Partner
+OPP-0286,Aisha Khan,Closed Lost,228800,2025-01-09,2025-01-23,Tech,Partner
+OPP-0287,Tom Becker,Prospecting,60800,2025-05-28,,Retail,Partner
+OPP-0288,Dan Kowalski,Closed Lost,155200,2024-03-26,2024-05-05,Finance,Outbound
+OPP-0289,Aisha Khan,Closed Lost,145800,2024-03-08,2024-04-18,Healthcare,Inbound
+OPP-0290,Elena Torres,Closed Won,100300,2024-11-12,2025-03-04,Healthcare,Inbound
+OPP-0291,Jake Morris,Proposal,92200,2024-09-22,,Manufacturing,Inbound
+OPP-0292,Priya Nair,Negotiation,49700,2025-08-13,,Retail,Partner
+OPP-0293,Marcus Webb,Closed Lost,152700,2024-04-28,2024-08-12,Retail,Inbound
+OPP-0294,Elena Torres,Closed Lost,137300,2024-08-17,2024-11-07,Manufacturing,Outbound
+OPP-0295,Tom Becker,Prospecting,138200,2024-08-16,,Tech,Outbound
+OPP-0296,Aisha Khan,Closed Lost,115600,2024-11-14,2024-12-09,Tech,Partner
+OPP-0297,Priya Nair,Proposal,76600,2025-01-12,,Retail,Inbound
+OPP-0298,Marcus Webb,Closed Won,54800,2024-12-20,2025-06-04,Retail,Partner
+OPP-0299,Dan Kowalski,Proposal,22300,2024-05-25,,Healthcare,Referral
+OPP-0300,Aisha Khan,Prospecting,70200,2025-03-21,,Finance,Outbound
+OPP-0301,Marcus Webb,Closed Won,103100,2024-11-30,2025-05-18,Retail,Inbound
+OPP-0302,Elena Torres,Closed Lost,93400,2025-01-01,2025-01-14,Healthcare,Inbound
+OPP-0303,Dan Kowalski,Qualification,36000,2025-09-09,,Retail,Outbound
+OPP-0304,Priya Nair,Qualification,95400,2024-11-02,,Tech,Inbound
+OPP-0305,Elena Torres,Closed Lost,142000,2025-04-18,2025-05-21,Healthcare,Outbound
+OPP-0306,Elena Torres,Closed Lost,65100,2024-03-27,2024-05-10,Manufacturing,Referral
+OPP-0307,Aisha Khan,Qualification,195100,2024-12-05,,Finance,Inbound
+OPP-0308,Elena Torres,Closed Won,155100,2025-01-26,2025-06-12,Healthcare,Partner
+OPP-0309,Dan Kowalski,Closed Won,193800,2025-05-25,2025-09-23,Finance,Inbound
+OPP-0310,Dan Kowalski,Prospecting,62100,2025-01-26,,Retail,Outbound
+OPP-0311,Priya Nair,Closed Lost,208700,2025-02-01,2025-03-25,Healthcare,Outbound
+OPP-0312,Aisha Khan,Prospecting,141500,2024-02-27,,Tech,Referral
+OPP-0313,Aisha Khan,Qualification,22500,2024-06-26,,Manufacturing,Outbound
+OPP-0314,Tom Becker,Prospecting,187600,2025-07-30,,Manufacturing,Referral
+OPP-0315,Tom Becker,Closed Won,88400,2024-02-08,2024-05-11,Manufacturing,Referral
+OPP-0316,Priya Nair,Proposal,51700,2024-11-27,,Retail,Outbound
+OPP-0317,Marcus Webb,Closed Lost,134000,2025-02-09,2025-06-18,Finance,Inbound
+OPP-0318,Tom Becker,Prospecting,199500,2025-08-26,,Finance,Partner
+OPP-0319,Dan Kowalski,Proposal,172900,2025-08-04,,Tech,Referral
+OPP-0320,Aisha Khan,Qualification,192300,2024-11-23,,Finance,Inbound
+OPP-0321,Elena Torres,Closed Won,257200,2024-09-28,2025-04-25,Finance,Referral
+OPP-0322,Elena Torres,Closed Lost,59500,2025-07-13,2025-08-18,Retail,Outbound
+OPP-0323,Marcus Webb,Closed Won,47600,2024-04-17,2024-09-14,Retail,Inbound
+OPP-0324,Aisha Khan,Closed Lost,145200,2024-06-17,2024-07-08,Healthcare,Partner
+OPP-0325,Marcus Webb,Negotiation,54400,2025-07-07,,Tech,Inbound
+OPP-0326,Sofia Reyes,Closed Won,233800,2025-05-06,2025-08-30,Tech,Outbound
+OPP-0327,Dan Kowalski,Closed Lost,48500,2024-09-28,2025-01-13,Retail,Inbound
+OPP-0328,Marcus Webb,Closed Lost,35900,2025-07-31,2025-09-17,Healthcare,Inbound
+OPP-0329,Jake Morris,Closed Lost,142100,2024-03-03,2024-03-28,Healthcare,Referral
+OPP-0330,Dan Kowalski,Proposal,72100,2025-05-02,,Manufacturing,Outbound
+OPP-0331,Elena Torres,Prospecting,50800,2024-06-20,,Healthcare,Outbound
+OPP-0332,Tom Becker,Prospecting,214500,2024-05-31,,Healthcare,Inbound
+OPP-0333,Priya Nair,Closed Lost,49200,2025-02-10,2025-04-04,Manufacturing,Partner
+OPP-0334,Dan Kowalski,Closed Lost,73200,2025-03-05,2025-04-28,Retail,Partner
+OPP-0335,Aisha Khan,Prospecting,84100,2024-12-18,,Tech,Outbound
+OPP-0336,Priya Nair,Closed Lost,146300,2025-02-16,2025-04-09,Finance,Outbound
+OPP-0337,Elena Torres,Closed Lost,49600,2024-10-02,2024-12-17,Healthcare,Partner
+OPP-0338,Priya Nair,Closed Lost,44400,2025-03-29,2025-05-18,Retail,Partner
+OPP-0339,Marcus Webb,Closed Won,130000,2025-01-17,2025-06-30,Retail,Inbound
+OPP-0340,Dan Kowalski,Closed Lost,159900,2024-07-24,2024-11-01,Finance,Referral
+OPP-0341,Priya Nair,Closed Lost,123900,2024-02-01,2024-06-13,Healthcare,Referral
+OPP-0342,Sofia Reyes,Qualification,147100,2025-01-30,,Tech,Outbound
+OPP-0343,Tom Becker,Closed Lost,91800,2025-02-23,2025-03-23,Tech,Inbound
+OPP-0344,Elena Torres,Closed Lost,162300,2024-09-15,2024-10-29,Finance,Partner
+OPP-0345,Dan Kowalski,Prospecting,76800,2025-06-17,,Healthcare,Outbound
+OPP-0346,Dan Kowalski,Closed Lost,244800,2025-01-18,2025-03-06,Healthcare,Inbound
+OPP-0347,Priya Nair,Closed Won,175100,2024-11-01,2025-05-02,Tech,Inbound
+OPP-0348,Dan Kowalski,Closed Lost,57900,2024-10-29,2024-12-13,Tech,Outbound
+OPP-0349,Sofia Reyes,Proposal,39300,2025-07-01,,Retail,Partner
+OPP-0350,Priya Nair,Closed Lost,158100,2024-10-27,2025-02-02,Tech,Outbound
+OPP-0351,Aisha Khan,Qualification,113800,2024-11-10,,Finance,Partner
+OPP-0352,Priya Nair,Closed Lost,140800,2024-03-13,2024-08-02,Healthcare,Outbound
+OPP-0353,Priya Nair,Prospecting,42300,2025-02-23,,Retail,Inbound
+OPP-0354,Aisha Khan,Closed Lost,168800,2024-03-23,2024-04-30,Tech,Partner
+OPP-0355,Priya Nair,Closed Lost,40800,2025-08-13,2025-09-02,Healthcare,Inbound
+OPP-0356,Tom Becker,Prospecting,109700,2025-03-15,,Tech,Referral
+OPP-0357,Dan Kowalski,Closed Lost,108600,2024-11-25,2024-12-19,Tech,Inbound
+OPP-0358,Marcus Webb,Closed Lost,79700,2024-12-18,2025-03-09,Finance,Outbound
+OPP-0359,Marcus Webb,Negotiation,66300,2025-09-02,,Tech,Referral
+OPP-0360,Priya Nair,Qualification,146000,2024-08-21,,Manufacturing,Inbound
+OPP-0361,Marcus Webb,Closed Lost,157800,2024-09-18,2024-11-10,Healthcare,Inbound
+OPP-0362,Jake Morris,Proposal,154300,2025-01-24,,Tech,Outbound
+OPP-0363,Marcus Webb,Closed Won,112100,2025-06-16,2025-10-03,Tech,Referral
+OPP-0364,Sofia Reyes,Proposal,185900,2025-09-15,,Tech,Outbound
+OPP-0365,Priya Nair,Closed Lost,181600,2025-05-07,2025-07-09,Tech,Outbound
+OPP-0366,Tom Becker,Prospecting,62800,2024-04-13,,Tech,Outbound
+OPP-0367,Jake Morris,Prospecting,70200,2024-06-27,,Manufacturing,Outbound
+OPP-0368,Tom Becker,Proposal,140600,2024-02-16,,Finance,Outbound
+OPP-0369,Priya Nair,Closed Lost,43500,2025-01-16,2025-04-20,Manufacturing,Partner
+OPP-0370,Tom Becker,Closed Lost,64700,2024-06-19,2024-07-15,Healthcare,Referral
+OPP-0371,Aisha Khan,Prospecting,221700,2025-08-05,,Tech,Partner
+OPP-0372,Marcus Webb,Closed Lost,66200,2024-02-17,2024-03-11,Healthcare,Outbound
+OPP-0373,Jake Morris,Closed Lost,68700,2024-12-12,2025-01-09,Retail,Outbound
+OPP-0374,Jake Morris,Qualification,111500,2025-01-29,,Finance,Inbound
+OPP-0375,Aisha Khan,Prospecting,236400,2025-04-25,,Tech,Outbound
+OPP-0376,Tom Becker,Closed Lost,70400,2025-01-22,2025-04-29,Healthcare,Inbound
+OPP-0377,Elena Torres,Closed Won,58900,2024-02-06,2024-07-18,Healthcare,Outbound
+OPP-0378,Jake Morris,Closed Won,186800,2024-12-15,2025-06-11,Finance,Partner
+OPP-0379,Tom Becker,Prospecting,123700,2024-04-09,,Finance,Outbound
+OPP-0380,Marcus Webb,Proposal,99600,2025-06-18,,Retail,Outbound
+OPP-0381,Dan Kowalski,Closed Lost,54600,2024-07-19,2024-09-03,Retail,Referral
+OPP-0382,Marcus Webb,Closed Lost,71700,2024-02-17,2024-03-15,Tech,Referral
+OPP-0383,Sofia Reyes,Negotiation,62700,2025-06-27,,Healthcare,Referral
+OPP-0384,Tom Becker,Prospecting,61400,2025-09-12,,Finance,Partner
+OPP-0385,Sofia Reyes,Closed Lost,165100,2024-05-16,2024-07-15,Manufacturing,Outbound
+OPP-0386,Priya Nair,Closed Lost,96600,2024-10-24,2024-11-25,Manufacturing,Referral
+OPP-0387,Aisha Khan,Prospecting,85800,2024-11-26,,Manufacturing,Outbound
+OPP-0388,Tom Becker,Qualification,532700,2025-06-30,,Finance,Outbound
+OPP-0389,Tom Becker,Qualification,52300,2024-07-23,,Tech,Outbound
+OPP-0390,Aisha Khan,Prospecting,72900,2025-01-02,,Tech,Referral
+OPP-0391,Elena Torres,Closed Won,63800,2024-10-21,2025-04-11,Retail,Partner
+OPP-0392,Priya Nair,Prospecting,72400,2025-03-29,,Tech,Outbound
+OPP-0393,Aisha Khan,Qualification,231600,2025-09-09,,Finance,Referral
+OPP-0394,Marcus Webb,Closed Won,104500,2024-02-11,2024-06-17,Manufacturing,Outbound
+OPP-0395,Elena Torres,Closed Lost,118300,2024-11-04,2025-02-24,Manufacturing,Outbound
+OPP-0396,Sofia Reyes,Negotiation,195100,2025-07-10,,Finance,Partner
+OPP-0397,Priya Nair,Closed Lost,101100,2025-07-28,2025-08-25,Manufacturing,Inbound
+OPP-0398,Elena Torres,Prospecting,246900,2024-09-06,,Healthcare,Outbound
+OPP-0399,Jake Morris,Closed Lost,148700,2025-07-07,2025-07-15,Manufacturing,Outbound
+OPP-0400,Aisha Khan,Closed Lost,167700,2024-02-14,2024-04-01,Healthcare,Referral
+OPP-0401,Sofia Reyes,Closed Lost,257200,2024-01-08,2024-03-28,Tech,Partner
+OPP-0402,Tom Becker,Prospecting,132400,2025-03-21,,Tech,Outbound
+OPP-0403,Aisha Khan,Closed Won,114500,2024-03-30,2024-08-03,Tech,Referral
+OPP-0404,Aisha Khan,Prospecting,98700,2025-02-02,,Healthcare,Outbound
+OPP-0405,Sofia Reyes,Closed Lost,241600,2024-03-15,2024-05-01,Finance,Outbound
+OPP-0406,Tom Becker,Prospecting,172700,2025-02-08,,Tech,Outbound
+OPP-0407,Elena Torres,Negotiation,306400,2025-07-12,,Tech,Inbound
+OPP-0408,Aisha Khan,Prospecting,93300,2025-07-14,,Manufacturing,Inbound
+OPP-0409,Priya Nair,Closed Lost,69200,2025-06-08,2025-08-20,Manufacturing,Referral
+OPP-0410,Marcus Webb,Closed Won,56100,2024-10-24,2025-02-28,Retail,Inbound
+OPP-0411,Priya Nair,Closed Lost,100400,2024-07-17,2024-10-09,Tech,Outbound
+OPP-0412,Jake Morris,Closed Lost,103400,2024-08-14,2024-09-11,Finance,Inbound
+OPP-0413,Dan Kowalski,Closed Lost,114800,2024-11-08,2025-01-02,Tech,Partner
+OPP-0414,Tom Becker,Closed Lost,125000,2024-03-19,2024-03-27,Tech,Partner
+OPP-0415,Tom Becker,Prospecting,78100,2024-08-05,,Retail,Outbound
+OPP-0416,Sofia Reyes,Qualification,77200,2025-01-09,,Manufacturing,Outbound
+OPP-0417,Sofia Reyes,Proposal,120100,2025-01-07,,Tech,Partner
+OPP-0418,Tom Becker,Closed Lost,122400,2024-07-02,2024-07-28,Tech,Outbound
+OPP-0419,Jake Morris,Closed Lost,58800,2024-08-12,2024-08-26,Retail,Partner
+OPP-0420,Elena Torres,Closed Lost,98100,2025-04-10,2025-04-18,Tech,Outbound
+OPP-0421,Aisha Khan,Prospecting,165300,2024-09-26,,Finance,Outbound
+OPP-0422,Sofia Reyes,Closed Lost,213900,2024-03-20,2024-04-10,Healthcare,Outbound
+OPP-0423,Aisha Khan,Prospecting,159900,2025-05-08,,Healthcare,Inbound
+OPP-0424,Elena Torres,Closed Won,71600,2024-10-14,2025-01-27,Healthcare,Partner
+OPP-0425,Jake Morris,Proposal,43900,2025-05-05,,Healthcare,Outbound
+OPP-0426,Elena Torres,Closed Lost,74000,2024-02-10,2024-02-21,Finance,Inbound
+OPP-0427,Elena Torres,Closed Lost,126200,2024-10-17,2024-10-31,Tech,Inbound
+OPP-0428,Dan Kowalski,Closed Won,124200,2024-07-05,2024-12-09,Manufacturing,Partner
+OPP-0429,Sofia Reyes,Closed Lost,133500,2025-03-05,2025-04-01,Healthcare,Inbound
+OPP-0430,Elena Torres,Closed Lost,150400,2025-05-08,2025-07-08,Finance,Outbound
+OPP-0431,Tom Becker,Prospecting,76400,2025-01-14,,Retail,Partner
+OPP-0432,Jake Morris,Closed Lost,80100,2024-12-24,2025-01-22,Manufacturing,Outbound
+OPP-0433,Sofia Reyes,Proposal,53900,2025-07-10,,Tech,Outbound
+OPP-0434,Tom Becker,Closed Lost,148300,2025-01-05,2025-02-16,Tech,Outbound
+OPP-0435,Priya Nair,Closed Lost,135800,2025-07-19,2025-08-11,Finance,Outbound
+OPP-0436,Marcus Webb,Closed Lost,156400,2024-05-21,2024-06-20,Healthcare,Outbound
+OPP-0437,Elena Torres,Negotiation,61800,2025-07-17,,Retail,Inbound
+OPP-0438,Elena Torres,Closed Lost,214800,2024-03-06,2024-06-17,Tech,Inbound
+OPP-0439,Aisha Khan,Qualification,91400,2024-01-11,,Finance,Outbound
+OPP-0440,Tom Becker,Closed Lost,140600,2024-08-25,2024-09-24,Tech,Inbound
+OPP-0441,Elena Torres,Closed Won,167500,2025-02-08,2025-05-31,Tech,Inbound
+OPP-0442,Sofia Reyes,Closed Lost,165500,2024-10-10,2024-12-06,Finance,Referral
+OPP-0443,Aisha Khan,Closed Lost,110700,2024-03-15,2024-04-02,Tech,Outbound
+OPP-0444,Aisha Khan,Closed Lost,102700,2025-01-21,2025-02-05,Manufacturing,Referral
+OPP-0445,Tom Becker,Closed Lost,102200,2024-01-29,2024-04-11,Healthcare,Partner
+OPP-0446,Jake Morris,Closed Lost,227600,2024-01-10,2024-01-27,Healthcare,Inbound
+OPP-0447,Marcus Webb,Closed Lost,283400,2024-12-28,2025-04-13,Finance,Inbound
+OPP-0448,Dan Kowalski,Closed Lost,86200,2024-07-26,2024-08-21,Retail,Inbound
+OPP-0449,Priya Nair,Closed Lost,119300,2025-07-08,2025-07-31,Tech,Referral
+OPP-0450,Priya Nair,Qualification,169700,2024-10-08,,Manufacturing,Outbound
+OPP-0451,Aisha Khan,Closed Lost,127700,2025-03-09,2025-04-03,Tech,Inbound
+OPP-0452,Elena Torres,Closed Lost,125800,2024-05-03,2024-06-19,Manufacturing,Outbound
+OPP-0453,Jake Morris,Closed Lost,55400,2024-07-10,2024-07-23,Tech,Outbound
+OPP-0454,Priya Nair,Proposal,72000,2025-03-05,,Healthcare,Partner
+OPP-0455,Priya Nair,Closed Lost,129500,2024-04-12,2024-04-27,Tech,Inbound
+OPP-0456,Sofia Reyes,Closed Lost,291000,2025-04-29,2025-05-13,Tech,Partner
+OPP-0457,Dan Kowalski,Closed Lost,105500,2024-11-19,2024-12-06,Manufacturing,Inbound
+OPP-0458,Priya Nair,Closed Lost,82900,2024-08-08,2024-11-15,Tech,Partner
+OPP-0459,Jake Morris,Proposal,138900,2024-12-18,,Healthcare,Inbound
+OPP-0460,Aisha Khan,Qualification,172400,2024-10-18,,Finance,Inbound
+OPP-0461,Dan Kowalski,Closed Lost,74700,2024-05-28,2024-06-24,Manufacturing,Referral
+OPP-0462,Tom Becker,Closed Lost,216300,2024-03-14,2024-05-02,Finance,Outbound
+OPP-0463,Priya Nair,Closed Lost,139900,2025-03-31,2025-04-19,Tech,Inbound
+OPP-0464,Jake Morris,Prospecting,75400,2024-09-14,,Healthcare,Outbound
+OPP-0465,Jake Morris,Prospecting,229300,2024-01-27,,Tech,Inbound
+OPP-0466,Sofia Reyes,Closed Won,132600,2025-02-03,2025-05-28,Tech,Partner
+OPP-0467,Sofia Reyes,Qualification,32600,2025-05-02,,Tech,Inbound
+OPP-0468,Aisha Khan,Prospecting,254400,2025-08-28,,Tech,Outbound
+OPP-0469,Jake Morris,Prospecting,157700,2024-11-13,,Finance,Outbound
+OPP-0470,Dan Kowalski,Proposal,93200,2024-06-08,,Tech,Inbound
+OPP-0471,Tom Becker,Prospecting,212800,2024-01-10,,Healthcare,Outbound
+OPP-0472,Tom Becker,Closed Lost,62800,2025-07-28,2025-08-11,Retail,Outbound
+OPP-0473,Marcus Webb,Closed Lost,96800,2025-03-08,2025-05-25,Healthcare,Referral
+OPP-0474,Priya Nair,Closed Won,37900,2024-07-05,2024-12-15,Retail,Referral
+OPP-0475,Sofia Reyes,Prospecting,56800,2024-07-09,,Tech,Inbound
+OPP-0476,Priya Nair,Prospecting,82500,2025-05-25,,Healthcare,Inbound
+OPP-0477,Dan Kowalski,Closed Lost,58900,2024-07-15,2024-07-30,Healthcare,Referral
+OPP-0478,Tom Becker,Qualification,158100,2025-03-29,,Tech,Referral
+OPP-0479,Marcus Webb,Closed Won,141100,2025-02-02,2025-05-17,Tech,Referral
+OPP-0480,Jake Morris,Prospecting,117500,2025-01-04,,Tech,Outbound
+OPP-0481,Tom Becker,Prospecting,139700,2024-06-20,,Tech,Inbound
+OPP-0482,Sofia Reyes,Closed Won,192500,2024-06-07,2024-12-12,Tech,Outbound
+OPP-0483,Priya Nair,Closed Lost,35400,2024-06-06,2024-07-05,Retail,Partner
+OPP-0484,Dan Kowalski,Closed Lost,178000,2025-03-25,2025-04-02,Finance,Outbound
+OPP-0485,Jake Morris,Closed Lost,218200,2025-03-24,2025-04-20,Tech,Outbound
+OPP-0486,Jake Morris,Prospecting,77300,2024-10-08,,Tech,Inbound
+OPP-0487,Sofia Reyes,Closed Lost,125400,2024-09-26,2025-01-16,Tech,Partner
+OPP-0488,Dan Kowalski,Closed Lost,58200,2025-07-05,2025-07-18,Tech,Inbound
+OPP-0489,Sofia Reyes,Closed Lost,170600,2024-11-25,2024-12-25,Finance,Outbound
+OPP-0490,Elena Torres,Negotiation,143500,2025-05-16,,Tech,Partner
+OPP-0491,Jake Morris,Closed Lost,137600,2024-03-03,2024-04-24,Manufacturing,Inbound
+OPP-0492,Tom Becker,Prospecting,145400,2024-03-13,,Tech,Referral
+OPP-0493,Elena Torres,Closed Won,73700,2025-01-29,2025-05-21,Healthcare,Inbound
+OPP-0494,Sofia Reyes,Closed Lost,97500,2025-04-14,2025-05-04,Retail,Outbound
+OPP-0495,Aisha Khan,Closed Lost,107000,2024-06-10,2024-07-07,Tech,Inbound
+OPP-0496,Dan Kowalski,Closed Lost,192900,2025-01-15,2025-03-04,Healthcare,Outbound
+OPP-0497,Sofia Reyes,Prospecting,112200,2024-02-05,,Tech,Outbound
+OPP-0498,Sofia Reyes,Proposal,68300,2024-08-15,,Manufacturing,Outbound
+OPP-0499,Aisha Khan,Proposal,86700,2025-08-08,,Manufacturing,Referral
+OPP-0500,Priya Nair,Closed Lost,91700,2025-08-07,2025-09-04,Tech,Partner
+OPP-0501,Jake Morris,Closed Lost,269800,2025-08-13,2025-08-25,Tech,Referral
+OPP-0502,Sofia Reyes,Prospecting,64000,2024-02-27,,Retail,Outbound
+OPP-0503,Priya Nair,Prospecting,251600,2025-09-08,,Healthcare,Partner
+OPP-0504,Tom Becker,Qualification,50900,2024-06-02,,Healthcare,Outbound
+OPP-0505,Marcus Webb,Closed Won,90600,2025-03-18,2025-08-31,Manufacturing,Outbound
+OPP-0506,Jake Morris,Prospecting,104500,2024-05-13,,Tech,Outbound
+OPP-0507,Dan Kowalski,Proposal,124700,2025-06-20,,Healthcare,Inbound
+OPP-0508,Priya Nair,Closed Lost,151000,2024-12-22,2025-03-20,Tech,Partner
+OPP-0509,Marcus Webb,Closed Lost,111600,2025-03-27,2025-05-03,Retail,Outbound
+OPP-0510,Jake Morris,Prospecting,35600,2024-05-31,,Retail,Inbound
+OPP-0511,Tom Becker,Qualification,86900,2024-01-24,,Finance,Inbound
+OPP-0512,Marcus Webb,Closed Lost,66300,2024-05-24,2024-07-09,Retail,Outbound
+OPP-0513,Sofia Reyes,Closed Lost,84100,2024-10-04,2024-10-28,Tech,Outbound
+OPP-0514,Elena Torres,Qualification,246900,2024-04-20,,Finance,Outbound
+OPP-0515,Jake Morris,Proposal,37800,2025-06-28,,Healthcare,Inbound
+OPP-0516,Sofia Reyes,Negotiation,191800,2025-05-16,,Tech,Referral
+OPP-0517,Priya Nair,Closed Lost,70700,2024-09-20,2024-09-27,Manufacturing,Partner
+OPP-0518,Aisha Khan,Proposal,98100,2024-05-20,,Tech,Partner
+OPP-0519,Sofia Reyes,Prospecting,94700,2024-11-15,,Tech,Outbound
+OPP-0520,Priya Nair,Prospecting,65300,2024-07-26,,Tech,Outbound
+OPP-0521,Priya Nair,Closed Lost,109100,2024-05-01,2024-06-04,Finance,Referral
+OPP-0522,Jake Morris,Closed Lost,75900,2025-03-29,2025-05-08,Manufacturing,Referral
+OPP-0523,Marcus Webb,Closed Won,150900,2024-08-24,2025-02-03,Tech,Inbound
+OPP-0524,Marcus Webb,Closed Won,126700,2025-01-31,2025-05-09,Healthcare,Partner
+OPP-0525,Aisha Khan,Qualification,141700,2024-07-28,,Tech,Partner
+OPP-0526,Aisha Khan,Qualification,85700,2024-09-09,,Healthcare,Partner
+OPP-0527,Sofia Reyes,Proposal,15700,2025-08-08,,Retail,Referral
+OPP-0528,Tom Becker,Closed Lost,81100,2025-07-25,2025-08-21,Healthcare,Outbound
+OPP-0529,Aisha Khan,Closed Lost,90200,2024-10-28,2024-11-05,Healthcare,Inbound
+OPP-0530,Jake Morris,Closed Lost,124500,2025-05-27,2025-07-26,Healthcare,Partner
+OPP-0531,Marcus Webb,Closed Lost,60100,2024-07-25,2024-08-03,Healthcare,Outbound
+OPP-0532,Priya Nair,Closed Lost,191600,2024-05-06,2024-07-04,Manufacturing,Referral
+OPP-0533,Sofia Reyes,Closed Lost,71800,2025-01-22,2025-01-30,Retail,Outbound
+OPP-0534,Tom Becker,Closed Lost,173400,2024-05-28,2024-07-21,Finance,Partner
+OPP-0535,Priya Nair,Closed Lost,69700,2024-05-14,2024-05-21,Manufacturing,Referral
+OPP-0536,Sofia Reyes,Closed Lost,200600,2024-01-06,2024-01-31,Healthcare,Inbound
+OPP-0537,Marcus Webb,Qualification,102000,2025-09-06,,Healthcare,Outbound
+OPP-0538,Sofia Reyes,Closed Lost,67800,2024-02-03,2024-02-28,Retail,Outbound
+OPP-0539,Priya Nair,Closed Lost,111000,2024-10-18,2024-12-24,Tech,Partner
+OPP-0540,Aisha Khan,Prospecting,29000,2024-03-10,,Healthcare,Referral
+OPP-0541,Tom Becker,Prospecting,87800,2024-08-02,,Healthcare,Inbound
+OPP-0542,Sofia Reyes,Qualification,57600,2024-10-21,,Retail,Inbound
+OPP-0543,Priya Nair,Closed Lost,352600,2025-05-23,2025-06-24,Finance,Outbound
+OPP-0544,Dan Kowalski,Closed Lost,63600,2024-07-17,2024-09-11,Manufacturing,Referral
+OPP-0545,Jake Morris,Closed Lost,140000,2024-12-24,2025-01-19,Finance,Inbound
+OPP-0546,Jake Morris,Proposal,74500,2025-07-17,,Tech,Referral
+OPP-0547,Dan Kowalski,Prospecting,116800,2024-12-12,,Manufacturing,Outbound
+OPP-0548,Dan Kowalski,Prospecting,86000,2025-04-16,,Tech,Outbound
+OPP-0549,Sofia Reyes,Closed Lost,46400,2025-06-17,2025-07-28,Retail,Outbound
+OPP-0550,Sofia Reyes,Closed Lost,123000,2025-07-01,2025-07-27,Finance,Inbound
+OPP-0551,Sofia Reyes,Closed Lost,164400,2024-11-18,2024-12-04,Tech,Inbound
+OPP-0552,Dan Kowalski,Closed Lost,56500,2024-08-09,2024-09-23,Tech,Outbound
+OPP-0553,Tom Becker,Closed Lost,54100,2025-05-27,2025-08-13,Healthcare,Partner
+OPP-0554,Tom Becker,Closed Lost,99500,2024-02-07,2024-03-07,Manufacturing,Inbound
+OPP-0555,Tom Becker,Qualification,169200,2024-02-17,,Healthcare,Inbound
+OPP-0556,Jake Morris,Closed Won,68700,2024-07-24,2024-11-06,Retail,Inbound
+OPP-0557,Priya Nair,Closed Won,268000,2024-04-14,2024-11-08,Tech,Inbound
+OPP-0558,Tom Becker,Closed Lost,124000,2024-01-30,2024-02-28,Tech,Outbound
+OPP-0559,Elena Torres,Qualification,90500,2025-08-29,,Tech,Outbound
+OPP-0560,Sofia Reyes,Qualification,98900,2025-06-30,,Retail,Outbound
+OPP-0561,Tom Becker,Closed Lost,260300,2024-04-09,2024-05-11,Tech,Outbound
+OPP-0562,Jake Morris,Closed Lost,166000,2025-01-07,2025-04-08,Healthcare,Referral
+OPP-0563,Dan Kowalski,Closed Lost,88900,2024-06-23,2024-10-09,Healthcare,Inbound
+OPP-0564,Elena Torres,Closed Won,40900,2024-11-05,2025-04-02,Retail,Referral
+OPP-0565,Marcus Webb,Closed Lost,57500,2025-03-17,2025-04-05,Tech,Outbound
+OPP-0566,Sofia Reyes,Prospecting,69900,2025-08-10,,Finance,Outbound
+OPP-0567,Elena Torres,Closed Lost,62800,2024-11-11,2024-11-20,Healthcare,Outbound
+OPP-0568,Sofia Reyes,Closed Lost,216500,2024-03-03,2024-03-30,Finance,Referral
+OPP-0569,Tom Becker,Qualification,72400,2025-04-02,,Healthcare,Outbound
+OPP-0570,Priya Nair,Closed Lost,74500,2024-01-09,2024-02-01,Manufacturing,Outbound
+OPP-0571,Dan Kowalski,Proposal,95900,2024-02-24,,Tech,Inbound
+OPP-0572,Elena Torres,Closed Won,105500,2024-11-21,2025-03-18,Tech,Inbound
+OPP-0573,Dan Kowalski,Closed Lost,128000,2024-03-14,2024-03-26,Healthcare,Inbound
+OPP-0574,Jake Morris,Prospecting,132700,2025-04-11,,Healthcare,Outbound
+OPP-0575,Jake Morris,Closed Won,141100,2025-04-05,2025-09-16,Finance,Partner
+OPP-0576,Tom Becker,Closed Lost,94500,2025-01-10,2025-04-11,Healthcare,Inbound
+OPP-0577,Elena Torres,Proposal,53600,2024-10-13,,Finance,Outbound
+OPP-0578,Elena Torres,Closed Lost,100000,2024-11-15,2025-01-13,Retail,Outbound
+OPP-0579,Tom Becker,Qualification,100600,2025-03-07,,Healthcare,Outbound
+OPP-0580,Priya Nair,Closed Lost,167200,2025-07-31,2025-09-06,Finance,Inbound
+OPP-0581,Sofia Reyes,Prospecting,118400,2024-03-19,,Tech,Outbound
+OPP-0582,Priya Nair,Closed Lost,83400,2025-08-28,2025-09-25,Tech,Inbound
+OPP-0583,Dan Kowalski,Closed Lost,162100,2025-06-24,2025-07-13,Tech,Referral
+OPP-0584,Aisha Khan,Closed Lost,209100,2025-01-27,2025-03-06,Finance,Partner
+OPP-0585,Marcus Webb,Closed Won,172400,2024-04-28,2024-10-19,Healthcare,Referral
+OPP-0586,Marcus Webb,Closed Lost,74500,2025-03-21,2025-05-11,Healthcare,Referral
+OPP-0587,Dan Kowalski,Closed Lost,155700,2025-03-18,2025-04-16,Finance,Outbound
+OPP-0588,Tom Becker,Closed Lost,48900,2025-02-04,2025-03-02,Tech,Outbound
+OPP-0589,Jake Morris,Closed Won,105100,2024-07-03,2024-11-27,Finance,Referral
+OPP-0590,Elena Torres,Closed Won,81300,2024-07-16,2024-11-12,Healthcare,Inbound
+OPP-0591,Aisha Khan,Prospecting,65300,2025-08-02,,Finance,Outbound
+OPP-0592,Marcus Webb,Closed Lost,75200,2024-03-18,2024-04-27,Tech,Inbound
+OPP-0593,Tom Becker,Closed Lost,198600,2024-03-16,2024-05-11,Finance,Referral
+OPP-0594,Priya Nair,Closed Won,82000,2025-05-18,2025-08-31,Tech,Referral
+OPP-0595,Aisha Khan,Prospecting,55600,2024-09-13,,Tech,Referral
+OPP-0596,Elena Torres,Closed Lost,135800,2024-12-03,2024-12-29,Finance,Outbound
+OPP-0597,Elena Torres,Closed Lost,58300,2024-03-12,2024-06-19,Retail,Referral
+OPP-0598,Elena Torres,Qualification,70700,2024-02-26,,Manufacturing,Outbound
+OPP-0599,Elena Torres,Closed Won,46700,2024-10-23,2025-02-08,Manufacturing,Outbound
+OPP-0600,Priya Nair,Closed Lost,159400,2025-03-24,2025-04-05,Tech,Outbound
+OPP-0601,Elena Torres,Proposal,61100,2025-07-07,,Manufacturing,Inbound
+OPP-0602,Tom Becker,Proposal,99500,2024-02-13,,Tech,Partner
+OPP-0603,Sofia Reyes,Closed Lost,94800,2024-08-26,2024-09-03,Manufacturing,Partner
+OPP-0604,Jake Morris,Prospecting,273500,2024-09-05,,Tech,Outbound
+OPP-0605,Marcus Webb,Closed Lost,58400,2025-04-12,2025-05-09,Tech,Inbound
+OPP-0606,Tom Becker,Qualification,147900,2024-07-26,,Healthcare,Inbound
+OPP-0607,Aisha Khan,Proposal,287200,2025-08-30,,Healthcare,Outbound
+OPP-0608,Marcus Webb,Closed Lost,74700,2024-05-16,2024-07-02,Tech,Outbound
+OPP-0609,Tom Becker,Qualification,44200,2024-10-17,,Healthcare,Inbound
+OPP-0610,Tom Becker,Proposal,150500,2025-02-25,,Tech,Referral
+OPP-0611,Sofia Reyes,Negotiation,115200,2025-07-25,,Finance,Referral
+OPP-0612,Tom Becker,Proposal,102200,2024-08-01,,Healthcare,Partner
+OPP-0613,Jake Morris,Closed Won,51600,2024-02-14,2024-07-22,Healthcare,Partner
+OPP-0614,Tom Becker,Closed Lost,118400,2024-08-28,2024-09-23,Tech,Referral
+OPP-0615,Sofia Reyes,Proposal,89500,2024-04-22,,Retail,Outbound
+OPP-0616,Tom Becker,Qualification,114900,2025-03-22,,Tech,Outbound
+OPP-0617,Dan Kowalski,Proposal,190300,2024-10-03,,Tech,Outbound
+OPP-0618,Elena Torres,Closed Won,57700,2024-12-17,2025-05-27,Retail,Inbound
+OPP-0619,Aisha Khan,Closed Lost,105200,2025-06-18,2025-07-02,Finance,Outbound
+OPP-0620,Sofia Reyes,Closed Lost,235200,2024-09-09,2024-12-16,Tech,Referral
+OPP-0621,Aisha Khan,Closed Lost,158200,2025-03-11,2025-04-04,Healthcare,Partner
+OPP-0622,Tom Becker,Closed Lost,119500,2024-01-13,2024-02-03,Tech,Referral
+OPP-0623,Aisha Khan,Prospecting,136000,2025-05-06,,Tech,Inbound
+OPP-0624,Marcus Webb,Closed Lost,145200,2025-02-19,2025-04-16,Finance,Outbound
+OPP-0625,Jake Morris,Negotiation,112500,2025-06-27,,Finance,Inbound
+OPP-0626,Sofia Reyes,Closed Lost,72700,2025-01-07,2025-01-17,Retail,Referral
+OPP-0627,Dan Kowalski,Closed Lost,89500,2024-03-09,2024-03-22,Tech,Outbound
+OPP-0628,Marcus Webb,Prospecting,232500,2025-08-17,,Finance,Outbound
+OPP-0629,Jake Morris,Closed Won,15400,2025-05-30,2025-10-02,Retail,Referral
+OPP-0630,Sofia Reyes,Closed Lost,126700,2024-10-26,2024-12-19,Healthcare,Referral
+OPP-0631,Marcus Webb,Closed Lost,108300,2024-03-19,2024-07-06,Tech,Partner
+OPP-0632,Marcus Webb,Closed Lost,45200,2025-07-08,2025-07-28,Manufacturing,Inbound
+OPP-0633,Priya Nair,Prospecting,126300,2024-08-25,,Finance,Outbound
+OPP-0634,Sofia Reyes,Closed Lost,263700,2025-05-12,2025-06-14,Finance,Outbound
+OPP-0635,Sofia Reyes,Closed Lost,183300,2024-11-09,2025-02-04,Healthcare,Outbound
+OPP-0636,Tom Becker,Prospecting,105600,2024-06-13,,Healthcare,Inbound
+OPP-0637,Priya Nair,Proposal,93700,2024-06-06,,Retail,Partner
+OPP-0638,Sofia Reyes,Prospecting,50600,2024-11-20,,Healthcare,Outbound
+OPP-0639,Marcus Webb,Closed Won,87600,2024-01-26,2024-06-06,Manufacturing,Outbound
+OPP-0640,Marcus Webb,Closed Lost,152500,2024-10-29,2025-01-03,Finance,Partner
+OPP-0641,Tom Becker,Prospecting,73900,2025-05-05,,Manufacturing,Referral
+OPP-0642,Marcus Webb,Closed Lost,68300,2025-04-01,2025-06-05,Healthcare,Outbound
+OPP-0643,Sofia Reyes,Prospecting,89700,2024-03-30,,Manufacturing,Inbound
+OPP-0644,Dan Kowalski,Closed Lost,151400,2025-01-04,2025-02-27,Finance,Outbound
+OPP-0645,Priya Nair,Prospecting,164700,2025-03-01,,Tech,Outbound
+OPP-0646,Priya Nair,Closed Won,48200,2024-05-22,2024-10-17,Manufacturing,Referral
+OPP-0647,Aisha Khan,Prospecting,105600,2025-02-23,,Manufacturing,Inbound
+OPP-0648,Priya Nair,Closed Lost,203600,2024-07-23,2024-09-15,Healthcare,Inbound
+OPP-0649,Tom Becker,Closed Lost,147400,2024-08-17,2024-12-05,Finance,Outbound
+OPP-0650,Elena Torres,Qualification,134600,2024-10-10,,Tech,Outbound
+OPP-0651,Sofia Reyes,Prospecting,102900,2025-05-02,,Healthcare,Outbound
+OPP-0652,Tom Becker,Prospecting,64600,2025-04-17,,Retail,Outbound
+OPP-0653,Marcus Webb,Closed Lost,59200,2024-12-30,2025-02-18,Tech,Inbound
+OPP-0654,Sofia Reyes,Closed Won,156300,2024-11-04,2025-03-31,Tech,Referral
+OPP-0655,Tom Becker,Prospecting,90900,2024-12-14,,Healthcare,Inbound
+OPP-0656,Marcus Webb,Closed Lost,127300,2025-06-22,2025-07-22,Healthcare,Inbound
+OPP-0657,Sofia Reyes,Closed Lost,116100,2024-05-14,2024-06-06,Tech,Referral
+OPP-0658,Priya Nair,Closed Lost,218000,2024-06-25,2024-09-13,Tech,Referral
+OPP-0659,Marcus Webb,Closed Won,124300,2024-03-21,2024-08-28,Finance,Referral
+OPP-0660,Tom Becker,Closed Lost,191000,2024-03-01,2024-03-18,Tech,Inbound
+OPP-0661,Elena Torres,Closed Lost,145200,2024-07-23,2024-11-09,Tech,Outbound
+OPP-0662,Aisha Khan,Closed Lost,120200,2024-09-04,2024-09-14,Tech,Outbound
+OPP-0663,Elena Torres,Closed Lost,91600,2024-10-15,2024-11-08,Tech,Outbound
+OPP-0664,Aisha Khan,Prospecting,121300,2025-01-10,,Tech,Inbound
+OPP-0665,Marcus Webb,Qualification,106400,2025-02-21,,Tech,Outbound
+OPP-0666,Elena Torres,Negotiation,238200,2025-07-24,,Tech,Inbound
+OPP-0667,Sofia Reyes,Prospecting,77100,2024-10-24,,Manufacturing,Outbound
+OPP-0668,Dan Kowalski,Closed Won,128100,2025-02-09,2025-07-09,Manufacturing,Partner
+OPP-0669,Jake Morris,Prospecting,86400,2025-01-07,,Retail,Partner
+OPP-0670,Priya Nair,Closed Lost,108200,2025-08-18,2025-09-15,Manufacturing,Outbound
+OPP-0671,Aisha Khan,Closed Lost,151600,2025-04-10,2025-06-14,Finance,Outbound
+OPP-0672,Elena Torres,Closed Won,59900,2024-07-02,2024-10-10,Retail,Referral
+OPP-0673,Tom Becker,Prospecting,108800,2024-10-27,,Healthcare,Outbound
+OPP-0674,Dan Kowalski,Prospecting,202900,2024-02-02,,Healthcare,Inbound
+OPP-0675,Aisha Khan,Closed Lost,179300,2024-02-06,2024-03-24,Healthcare,Inbound
+OPP-0676,Aisha Khan,Closed Lost,86800,2024-04-22,2024-05-14,Healthcare,Inbound
+OPP-0677,Jake Morris,Closed Lost,132000,2025-06-02,2025-09-06,Finance,Referral
+OPP-0678,Sofia Reyes,Proposal,73700,2024-02-16,,Manufacturing,Outbound
+OPP-0679,Sofia Reyes,Closed Won,127700,2024-12-31,2025-05-17,Finance,Referral
+OPP-0680,Sofia Reyes,Closed Lost,95600,2024-01-21,2024-04-28,Tech,Partner
+OPP-0681,Sofia Reyes,Closed Lost,173200,2024-11-20,2025-03-14,Tech,Partner
+OPP-0682,Elena Torres,Proposal,111000,2024-12-13,,Healthcare,Outbound
+OPP-0683,Marcus Webb,Prospecting,62900,2024-10-31,,Manufacturing,Outbound
+OPP-0684,Dan Kowalski,Closed Won,37400,2024-03-09,2024-06-09,Retail,Inbound
+OPP-0685,Jake Morris,Closed Lost,53600,2024-07-23,2024-09-24,Retail,Outbound
+OPP-0686,Aisha Khan,Qualification,67800,2025-04-23,,Healthcare,Outbound
+OPP-0687,Tom Becker,Proposal,55600,2025-04-18,,Manufacturing,Partner
+OPP-0688,Priya Nair,Closed Lost,74500,2024-10-20,2024-11-04,Healthcare,Outbound
+OPP-0689,Jake Morris,Closed Lost,167400,2025-05-12,2025-07-03,Tech,Inbound
+OPP-0690,Marcus Webb,Closed Lost,163600,2025-07-17,2025-09-14,Tech,Inbound
+OPP-0691,Tom Becker,Prospecting,69300,2024-03-06,,Manufacturing,Inbound
+OPP-0692,Dan Kowalski,Closed Lost,183500,2024-04-24,2024-05-19,Finance,Outbound
+OPP-0693,Aisha Khan,Qualification,47700,2024-11-16,,Retail,Outbound
+OPP-0694,Dan Kowalski,Closed Lost,111900,2024-06-28,2024-09-14,Tech,Referral
+OPP-0695,Dan Kowalski,Prospecting,66500,2024-09-09,,Manufacturing,Outbound
+OPP-0696,Aisha Khan,Closed Lost,279400,2024-01-22,2024-02-21,Healthcare,Partner
+OPP-0697,Elena Torres,Closed Lost,71600,2025-01-28,2025-03-15,Retail,Referral
+OPP-0698,Aisha Khan,Prospecting,104100,2024-01-09,,Finance,Referral
+OPP-0699,Dan Kowalski,Closed Lost,92700,2024-06-13,2024-07-10,Tech,Partner
+OPP-0700,Priya Nair,Closed Lost,204000,2024-03-23,2024-04-17,Finance,Referral
+OPP-0701,Dan Kowalski,Closed Lost,81800,2024-12-26,2025-02-22,Retail,Outbound
+OPP-0702,Jake Morris,Closed Lost,194100,2024-05-19,2024-08-17,Tech,Outbound
+OPP-0703,Marcus Webb,Closed Lost,249700,2025-08-31,2025-09-20,Manufacturing,Outbound
+OPP-0704,Dan Kowalski,Closed Lost,64600,2024-12-01,2024-12-14,Tech,Partner
+OPP-0705,Elena Torres,Qualification,62000,2025-08-07,,Healthcare,Outbound
+OPP-0706,Aisha Khan,Qualification,68800,2024-06-21,,Finance,Outbound
+OPP-0707,Sofia Reyes,Closed Lost,47200,2024-01-15,2024-02-03,Manufacturing,Inbound
+OPP-0708,Tom Becker,Qualification,59700,2024-07-27,,Retail,Partner
+OPP-0709,Tom Becker,Qualification,65500,2025-03-04,,Healthcare,Inbound
+OPP-0710,Elena Torres,Negotiation,114100,2025-08-19,,Tech,Partner
+OPP-0711,Aisha Khan,Negotiation,102700,2025-09-03,,Tech,Outbound
+OPP-0712,Dan Kowalski,Closed Lost,292200,2024-02-16,2024-04-11,Finance,Outbound
+OPP-0713,Priya Nair,Closed Lost,119600,2025-05-30,2025-07-26,Healthcare,Outbound
+OPP-0714,Priya Nair,Qualification,334400,2025-03-16,,Tech,Outbound
+OPP-0715,Sofia Reyes,Closed Won,152500,2025-03-26,2025-08-07,Tech,Referral
+OPP-0716,Marcus Webb,Closed Lost,219500,2025-03-28,2025-05-28,Tech,Outbound
+OPP-0717,Dan Kowalski,Prospecting,98800,2024-07-27,,Finance,Inbound
+OPP-0718,Marcus Webb,Closed Won,128900,2024-01-05,2024-06-15,Healthcare,Inbound
+OPP-0719,Jake Morris,Qualification,186000,2025-02-07,,Tech,Partner
+OPP-0720,Elena Torres,Qualification,108000,2025-05-06,,Tech,Outbound
+OPP-0721,Sofia Reyes,Qualification,51400,2025-08-05,,Manufacturing,Inbound
+OPP-0722,Tom Becker,Qualification,90900,2025-09-08,,Retail,Inbound
+OPP-0723,Marcus Webb,Closed Won,95200,2024-06-06,2024-10-17,Healthcare,Referral
+OPP-0724,Aisha Khan,Closed Lost,67200,2024-07-23,2024-08-11,Healthcare,Outbound
+OPP-0725,Dan Kowalski,Closed Won,313600,2024-07-09,2025-01-01,Healthcare,Outbound
+OPP-0726,Jake Morris,Closed Lost,303100,2025-06-21,2025-07-25,Finance,Outbound
+OPP-0727,Aisha Khan,Prospecting,208600,2024-10-29,,Tech,Outbound
+OPP-0728,Sofia Reyes,Closed Won,111600,2025-04-20,2025-08-04,Healthcare,Partner
+OPP-0729,Tom Becker,Closed Lost,52500,2025-02-06,2025-03-18,Retail,Inbound
+OPP-0730,Priya Nair,Closed Lost,49100,2024-12-15,2024-12-26,Retail,Referral
+OPP-0731,Marcus Webb,Closed Won,48100,2025-03-20,2025-08-09,Manufacturing,Inbound
+OPP-0732,Dan Kowalski,Closed Lost,298400,2024-11-06,2024-12-06,Finance,Outbound
+OPP-0733,Priya Nair,Proposal,133500,2024-05-08,,Finance,Outbound
+OPP-0734,Jake Morris,Closed Lost,118000,2024-09-04,2024-11-03,Tech,Inbound
+OPP-0735,Marcus Webb,Closed Lost,107800,2024-06-19,2024-07-19,Healthcare,Outbound
+OPP-0736,Dan Kowalski,Closed Lost,114000,2024-10-28,2024-11-17,Tech,Outbound
+OPP-0737,Elena Torres,Qualification,417500,2025-09-02,,Finance,Inbound
+OPP-0738,Elena Torres,Closed Lost,88200,2024-01-20,2024-05-20,Healthcare,Outbound
+OPP-0739,Aisha Khan,Closed Won,184000,2025-03-22,2025-08-02,Finance,Inbound
+OPP-0740,Sofia Reyes,Prospecting,205000,2024-10-27,,Finance,Outbound
+OPP-0741,Dan Kowalski,Prospecting,102200,2025-04-28,,Manufacturing,Outbound
+OPP-0742,Tom Becker,Closed Lost,213900,2024-05-12,2024-08-27,Tech,Outbound
+OPP-0743,Aisha Khan,Qualification,103500,2024-06-11,,Tech,Outbound
+OPP-0744,Sofia Reyes,Negotiation,74800,2025-07-29,,Healthcare,Referral
+OPP-0745,Tom Becker,Prospecting,93000,2024-02-21,,Manufacturing,Outbound
+OPP-0746,Dan Kowalski,Prospecting,88800,2024-04-14,,Retail,Outbound
+OPP-0747,Elena Torres,Closed Lost,103200,2025-03-28,2025-05-31,Finance,Inbound
+OPP-0748,Jake Morris,Prospecting,193900,2025-03-01,,Tech,Outbound
+OPP-0749,Elena Torres,Closed Won,90200,2024-09-29,2025-01-19,Healthcare,Referral
+OPP-0750,Tom Becker,Prospecting,36800,2025-02-23,,Retail,Outbound
+OPP-0751,Aisha Khan,Prospecting,277300,2024-01-11,,Finance,Outbound
+OPP-0752,Sofia Reyes,Closed Lost,78800,2025-03-20,2025-04-22,Healthcare,Inbound
+OPP-0753,Aisha Khan,Prospecting,243600,2025-06-16,,Finance,Inbound
+OPP-0754,Dan Kowalski,Closed Lost,120500,2024-10-13,2024-11-09,Finance,Partner
+OPP-0755,Aisha Khan,Closed Lost,66700,2025-03-28,2025-04-23,Healthcare,Referral
+OPP-0756,Dan Kowalski,Closed Won,64300,2024-05-09,2024-09-13,Healthcare,Inbound
+OPP-0757,Sofia Reyes,Closed Lost,131800,2024-11-07,2024-12-10,Tech,Referral
+OPP-0758,Jake Morris,Closed Won,120800,2024-05-07,2024-09-11,Tech,Partner
+OPP-0759,Tom Becker,Prospecting,339800,2025-06-30,,Finance,Partner
+OPP-0760,Marcus Webb,Closed Won,265100,2024-05-23,2024-11-28,Finance,Inbound
+OPP-0761,Marcus Webb,Closed Lost,68400,2025-02-25,2025-06-05,Healthcare,Referral
+OPP-0762,Marcus Webb,Closed Lost,126500,2025-02-08,2025-03-06,Finance,Inbound
+OPP-0763,Dan Kowalski,Prospecting,211100,2025-03-02,,Healthcare,Outbound
+OPP-0764,Marcus Webb,Negotiation,57000,2025-06-25,,Finance,Inbound
+OPP-0765,Priya Nair,Negotiation,138400,2025-08-08,,Finance,Partner
+OPP-0766,Priya Nair,Prospecting,30600,2024-02-19,,Retail,Outbound
+OPP-0767,Priya Nair,Closed Lost,124800,2024-02-15,2024-05-15,Tech,Inbound
+OPP-0768,Tom Becker,Prospecting,84500,2025-05-31,,Retail,Outbound
+OPP-0769,Tom Becker,Closed Lost,145600,2025-02-23,2025-03-15,Tech,Outbound
+OPP-0770,Priya Nair,Closed Lost,141200,2024-03-31,2024-05-01,Finance,Inbound
+OPP-0771,Elena Torres,Qualification,39600,2025-07-26,,Retail,Outbound
+OPP-0772,Sofia Reyes,Closed Lost,90900,2025-05-29,2025-06-08,Manufacturing,Referral
+OPP-0773,Jake Morris,Qualification,68300,2025-08-16,,Manufacturing,Outbound
+OPP-0774,Sofia Reyes,Negotiation,110400,2025-06-24,,Tech,Outbound
+OPP-0775,Priya Nair,Closed Lost,69500,2024-11-29,2025-01-10,Retail,Inbound
+OPP-0776,Dan Kowalski,Closed Lost,88500,2024-05-03,2024-07-15,Healthcare,Outbound
+OPP-0777,Dan Kowalski,Proposal,105100,2025-05-10,,Healthcare,Referral
+OPP-0778,Elena Torres,Proposal,171500,2025-08-04,,Finance,Outbound
+OPP-0779,Tom Becker,Prospecting,106800,2025-03-09,,Finance,Inbound
+OPP-0780,Sofia Reyes,Prospecting,69100,2024-03-02,,Retail,Inbound
+OPP-0781,Dan Kowalski,Closed Lost,52000,2024-08-05,2024-08-27,Retail,Outbound
+OPP-0782,Priya Nair,Prospecting,370300,2025-07-23,,Finance,Inbound
+OPP-0783,Aisha Khan,Closed Lost,65500,2024-11-25,2025-01-07,Healthcare,Inbound
+OPP-0784,Elena Torres,Closed Won,386700,2025-02-27,2025-06-30,Finance,Referral
+OPP-0785,Tom Becker,Prospecting,179800,2024-12-27,,Tech,Outbound
+OPP-0786,Dan Kowalski,Negotiation,97200,2024-01-10,,Healthcare,Outbound
+OPP-0787,Priya Nair,Prospecting,87500,2024-08-27,,Finance,Inbound
+OPP-0788,Aisha Khan,Qualification,164100,2024-01-08,,Healthcare,Inbound
+OPP-0789,Dan Kowalski,Negotiation,148500,2025-08-02,,Finance,Partner
+OPP-0790,Elena Torres,Proposal,96600,2024-10-07,,Finance,Inbound
+OPP-0791,Jake Morris,Closed Lost,130600,2025-03-13,2025-04-10,Tech,Outbound
+OPP-0792,Elena Torres,Closed Lost,142800,2025-01-05,2025-02-27,Healthcare,Partner
+OPP-0793,Priya Nair,Prospecting,51800,2024-01-26,,Healthcare,Outbound
+OPP-0794,Marcus Webb,Closed Won,126900,2024-12-03,2025-03-13,Manufacturing,Referral
+OPP-0795,Sofia Reyes,Prospecting,88600,2024-09-01,,Healthcare,Outbound
+OPP-0796,Tom Becker,Closed Lost,88300,2025-09-06,2025-09-16,Healthcare,Referral
+OPP-0797,Jake Morris,Prospecting,46600,2024-03-07,,Tech,Outbound
+OPP-0798,Elena Torres,Closed Won,139500,2024-04-14,2024-08-03,Tech,Referral
+OPP-0799,Sofia Reyes,Qualification,153400,2025-04-09,,Manufacturing,Outbound
+OPP-0800,Aisha Khan,Proposal,104300,2024-07-16,,Healthcare,Outbound
